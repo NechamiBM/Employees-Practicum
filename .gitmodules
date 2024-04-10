@@ -1,0 +1,6 @@
+[submodule "Employees-Practicum-Client"]
+	path = Employees-Practicum-Client
+	url = https://github.com/NechamiBM/Employees-Practicum-Client
+[submodule "Employees-Practicum-Server"]
+	path = Employees-Practicum-Server
+	url = https://github.com/NechamiBM/Employees-Practicum-Server
